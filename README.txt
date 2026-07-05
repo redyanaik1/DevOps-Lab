@@ -1,5 +1,6 @@
- # Devops Git Lab  .md
+# Devops Git Lab  .md
 Learning Git step by step.
 Git Staging Demo
-Learning GitHub Remote Repository 
+Learning GitHub Remote Repository
+Developer A says Hello
 Developer B says Welcome
